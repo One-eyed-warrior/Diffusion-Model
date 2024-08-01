@@ -1,4 +1,4 @@
-Sample output over 30 epochs (local gpu, nothing coherent yet, definitely needs a better gpu for 100< epochs ) on the landscape images dataset:
+Sample output over 30 epochs (local gpu, nothing coherent yet, definitely needs a better gpu for 100< epochs ) on the [landscape images dataset](https://www.kaggle.com/datasets/arnaud58/landscape-pictures):
 
 ![11](https://github.com/user-attachments/assets/14805a65-d417-40b1-b30b-e05d6430d289)
 ![10](https://github.com/user-attachments/assets/2f3464f6-fa61-4347-a4c0-d47bda64fa6d)
