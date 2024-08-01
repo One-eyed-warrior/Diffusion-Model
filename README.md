@@ -1,4 +1,4 @@
-Sample output over 30 epochs (local gpu): (nothing coherent yet, definitely needs a better gpu for 100< epochs )
+Sample output over 30 epochs (local gpu, nothing coherent yet, definitely needs a better gpu for 100< epochs ) on the landscape images dataset:
 
 ![11](https://github.com/user-attachments/assets/14805a65-d417-40b1-b30b-e05d6430d289)
 ![10](https://github.com/user-attachments/assets/2f3464f6-fa61-4347-a4c0-d47bda64fa6d)
@@ -30,3 +30,8 @@ Sample output over 30 epochs (local gpu): (nothing coherent yet, definitely need
 ![14](https://github.com/user-attachments/assets/1a9cf85a-4ddc-4968-9f07-639c3b01c58d)
 ![13](https://github.com/user-attachments/assets/dc33127e-14ba-4555-a3c2-c81d178e4ba1)
 ![12](https://github.com/user-attachments/assets/d4560ec3-b386-4182-bfbb-339b9110dddf)
+
+after running on Kaggle's GPU P100:
+
+![image](https://github.com/user-attachments/assets/06befcf7-5e8c-4aa4-abcc-c95475bb0f30) (epoch 104)
+
